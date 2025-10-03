@@ -1,5 +1,7 @@
 package mockito;
 
+import zero.mockito.ServicoMatematicoImpl;
+
 public class Calculadora {
 	ServicoMatematicoImpl servicoMatematico = new ServicoMatematicoImpl();
 
